@@ -6,8 +6,6 @@ import Ordenador from './Ordenador';
 import Itens from './Itens';
 import stylesTema from '../../styles/Tema.module.scss';
 
-
-
 export default function Cardapio() {
 
   const [busca, setBusca] = useState('');
